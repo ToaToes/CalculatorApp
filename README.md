@@ -1,1 +1,1 @@
-Kotlin(jetpack), Calculatation Logic and Calculator UI
+Kotlin(jetpack), Calculation Logic and Calculator UI
